@@ -28,5 +28,7 @@ In order to find out if it is going towards a positive trend or negative trend, 
 
 From the years 2007 and 2013 there is an increasing amount of Singapore EBooks being added. In 2013 there is a decrease in the number of EBooks being added.
 
-*Predictive Analytics* is about forecasting, using the historical trends predict the future trend.
+*Predictive Analytics* is about forecasting, using the historical trends predict the future trend. Predictive learning makes use of machine learning algorithm and Python and R are languages used to predict and forecast.
+
+*Prescriptive Analytics*
 
