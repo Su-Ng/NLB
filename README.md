@@ -30,5 +30,5 @@ From the years 2007 and 2013 there is an increasing amount of Singapore EBooks b
 
 **Predictive Analytics** is about forecasting, using the historical trends predict the future trend. Predictive learning makes use of machine learning algorithm and Python and R are languages used to predict and forecast.
 
-**Prescriptive Analytics** is about what business decisions should be made. Prescriptive analytics has the great ability to build for us a strong analytical outcome,, but it is up to the human side of data to make informed decisions with it.
+**Prescriptive Analytics** is about what business decisions should be made. Prescriptive analytics has the great ability to build for us a strong analytical outcome, but it is up to the human side of data to make informed decisions with it.
 
