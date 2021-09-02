@@ -19,3 +19,9 @@ From the year 2007 to 2015, there are books in four major languages, English, Ch
 ![EBOOKS2.png](EBOOKS2.png)
 
 - We discovered that this book is a collection of Poems in Singapore, which is probably why it is in four major languages.
+
+Python code is included in this depository to find out trends in the data.
+
+In order to find out if it is going towards a positive trend or negative trend, we plot out the data in years.
+
+
