@@ -7,4 +7,4 @@ Are there any unusual book in multiple languages?
 Which book is this?
 How many books are added to the ebook database in each year?
 
-![EBooks.png](EBooks.png)
+![EBOOKS1.png](EBOOKS1.png)
