@@ -24,4 +24,4 @@ Python code is included in this depository to find out trends in the data.
 
 In order to find out if it is going towards a positive trend or negative trend, we plot out the data in years.
 
-
+![Tremd.png](Trend.png)
