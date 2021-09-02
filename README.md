@@ -7,4 +7,13 @@ The questions we would like to ask is:
 - Which book is this?
 - How many books are added to the ebook database in each year?
 
+Business Intelligence and Analytic companies like PowerBI shown below helps us to visualize the data. 
+Descriptive Analytics
+
+From the year 2007 to 2015, there are books in four major languages, English, Chinese, Tamil and Malay.
 ![EBOOKS1.png](EBOOKS1.png)
+
+- Why is there a book in all four languages? 
+- This is Diagnostic Analytics. We find out the year this book is printed look it up via another visualisation that filters the year the books were published.
+
+![EBOOKS2.png](EBOOKS2.png)
