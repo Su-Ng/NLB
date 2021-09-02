@@ -17,3 +17,5 @@ From the year 2007 to 2015, there are books in four major languages, English, Ch
 - This is Diagnostic Analytics. We find out the year this book is printed look it up via another visualisation that filters the year the books were published.
 
 ![EBOOKS2.png](EBOOKS2.png)
+
+- We discovered that this book is a collection of Poems in Singapore, which is probably why it is in four major languages.
